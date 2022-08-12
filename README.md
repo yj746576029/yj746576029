@@ -1,11 +1,12 @@
 # 关于我
+
+![](assets/img/jishuyang.gif)
+
 ## 个人简介
 - 💻 一名爱折腾的80末青年
 - 🌱 目前在江苏无锡工作
 - ⭐ 目标做一个好人
 - 😊 花名技术羊
-
-<iframe src="https://yangjie-oh-yeah.gitee.io/resume/pc.html" width="100%" height="350" frameborder="0"></iframe>
 
 ## 技术栈
 ⚡ web全栈，熟练php、html、js、div+css、jquery、ajax、bootstrap、vue、react、element-ui、ant-design、微信公众号和小程序；熟悉es6、nodejs、webpack、flutter、react-native、uniapp；会简单的linux命令；会搭建git、lamp、lnmp；自己写了个mvc模式的php框架和若干前端小作品。
@@ -51,13 +52,13 @@
 - 视频号：技术羊
 
 ## 铁粉QQ群
-<img src="./assets/img/qq-group.png" alt="技术羊铁粉群" width="300">
+<img src="/assets/img/qq-group.png" alt="技术羊铁粉群" width="300">
 
 ## 打赏
 
 ✨ **你们的支持是我不断折腾的动力！**
 
 <div style="display:flex;justify-content: center;align-items: center;">
-    <img src="./assets/img/wxpay.jpg" alt="微信打赏" width="300">
-    <img src="./assets/img/alipay.jpg" alt="支付宝打赏" width="300">
+    <img src="/assets/img/wxpay.jpg" alt="微信打赏" width="300">
+    <img src="/assets/img/alipay.jpg" alt="支付宝打赏" width="300">
 </div>
