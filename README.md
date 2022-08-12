@@ -1,4 +1,4 @@
-![](https://www.jishuyang.com/assets/img/jishuyang.gif)
+![](https://github.com/yj746576029/yj746576029/raw/main/assets/img/jishuyang.gif)
 # 关于我
 
 ## 个人简介
@@ -51,13 +51,13 @@
 - 视频号：技术羊
 
 ## 铁粉QQ群
-<img src="https://www.jishuyang.com/assets/img/qq-group.png" alt="技术羊铁粉群" width="300">
+<img src="https://github.com/yj746576029/yj746576029/raw/main/assets/img/qq-group.png" alt="技术羊铁粉群" width="300">
 
 ## 打赏
 
 ✨ **你们的支持是我不断折腾的动力！**
 
 <div style="display:flex;justify-content: center;align-items: center;">
-    <img src="https://www.jishuyang.com/assets/img/wxpay.jpg" alt="微信打赏" width="300">
-    <img src="https://www.jishuyang.com/assets/img/alipay.jpg" alt="支付宝打赏" width="300">
+    <img src="https://github.com/yj746576029/yj746576029/raw/main/assets/img/wxpay.jpg" alt="微信打赏" width="300">
+    <img src="https://github.com/yj746576029/yj746576029/raw/main/assets/img/alipay.jpg" alt="支付宝打赏" width="300">
 </div>
