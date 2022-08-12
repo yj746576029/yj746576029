@@ -1,5 +1,4 @@
 ![](https://github.com/yj746576029/yj746576029/raw/main/assets/img/jishuyang.gif)
-# 关于我
 
 ## 个人简介
 - 💻 一名爱折腾的80末青年
