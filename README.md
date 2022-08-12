@@ -1,6 +1,5 @@
-# 关于我
-
 ![](https://www.jishuyang.com/assets/img/jishuyang.gif)
+# 关于我
 
 ## 个人简介
 - 💻 一名爱折腾的80末青年
