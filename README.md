@@ -58,5 +58,5 @@
 
 <div style="display:flex;justify-content: center;align-items: center;">
     <img src="https://www.jishuyang.com/assets/img/wxpay.jpg" alt="微信打赏" width="300">
-    <img src="https://www.jishuyang.com/main/assets/img/alipay.jpg" alt="支付宝打赏" width="300">
+    <img src="https://www.jishuyang.com/assets/img/alipay.jpg" alt="支付宝打赏" width="300">
 </div>
